@@ -5,9 +5,13 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 测试基本使用
+ * @author qk_203
+ *
+ */
 public class VisualVMTest {
 
-	static String str = "aaaaaaaaaa";
 	static int _1KB = 1024*1024;
 	
 	static List<byte[]> list = new ArrayList<byte[]>();
