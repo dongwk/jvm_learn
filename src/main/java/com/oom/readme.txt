@@ -1,0 +1,1 @@
+该包下面的类是实战OutOfMemoryError异常
